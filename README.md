@@ -31,7 +31,7 @@ Ajouter des Torrents
 Pour ajouter des torrents, envoyez une requête POST avec les fichiers .torrent :
 ```bash
 curl -X POST "http://localhost:8000/add-torrents/" \
-    -F "files=@path/to/your/torrent1.torrent" \
+    -F "files=@torrent1.torrent" \
     -F "files=@path/to/your/torrent2.torrent"
 ```
 
