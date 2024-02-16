@@ -12,7 +12,7 @@ BitServe est une application FastAPI pour gérer les téléchargements de torren
 Assurez-vous d'avoir Python installé sur votre machine. Clonez le dépôt et installez les dépendances :
 
 ```bash
-git clone https://your-repository-url.git
+git clone https://github.com/micferna/BitServe.git
 cd BitServe
 pip install -r requirements.txt
 ```
