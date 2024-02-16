@@ -1,0 +1,6 @@
+.bitserve/
+__pycache__/
+downloads/
+venv/
+debian-12.5.0-amd64-netinst.iso.torrent
+ubuntu-23.10-live-server-amd64.iso.torrent

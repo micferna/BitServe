@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+libtorrent
+psutil
+httpx
+python-multipart
